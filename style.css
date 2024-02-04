@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(40, 39, 39);
+}
+
+#body_background_img{
+    background-image: url("myBackground.jpg");
+}
+
+#nav_table {
+    width : 1025px;
+    text-align: center;
+}
+
+#nav_td {
+    width : 341.6666666666667px;
+    text-align: center;
+}
+
+#myPicture {
+    width: 240px;
+    height: 160px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+#basketballPicture {
+    width: 240px; 
+    height: 160px;
+    clear: both;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+#codePicture {
+    width: 240px; 
+    height: 160px;
+    clear: both;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+#banner {
+    width: 1025px;
+    margin: 0 auto;
+}
+
+#content_wrapper {
+    width: 1025px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
